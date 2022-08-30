@@ -3,7 +3,7 @@ This is an Network Intrusion Detection System which Identifies malicious request
 
 
 <h3>Dataset</h3>
-Here I have utilised the famous <a href=http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html>KDD Cup 1999 Dataset</a>
+Here I have utilised the famous <a href=http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html>KDD Cup 99 Dataset</a>
 
 <h3>Attack Vector</h3>
 The attacks are classified into 4 main categories, namely :
